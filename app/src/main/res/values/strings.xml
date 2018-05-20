@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Phuong trinh bac nhat</string>
+
+    <string name="textview_describe">Giai phuong trinh bac nhat dang ax + b = 0</string>
+    <string name="hint_edt_number_a">Enter a:</string>
+    <string name="hint_edt_number_b">Enter b:</string>
+
+    <string name="btn_solve">Tim nghiem</string>
+    <string name="textview_pt1n">Phuong trinh co nghiem x = %1f.</string>
+    <string name="textview_ptvn">Phung trinh vo nghiem.</string>
+    <string name="textview_ptvsn">Phuong trinh vo so nghiem.</string>
+
+</resources>
